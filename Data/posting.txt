@@ -1,0 +1,4 @@
+0,C:\Users\rotem\workspace\Search Engine\database files\David Ben-Gurion.txt
+1,C:\Users\rotem\workspace\Search Engine\database files\laptop.txt
+2,C:\Users\rotem\workspace\Search Engine\database files\Yitzhak Rabin.txt
+3,C:\Users\rotem\workspace\Search Engine\database files\UNIX.txt
